@@ -5,8 +5,7 @@ const page = () => {
   return (
     <div>
       
-    'use client'</div
-    >
+    </div>
   )
 }
 
